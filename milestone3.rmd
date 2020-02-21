@@ -1,0 +1,25 @@
+---
+title: "Milestone 3"
+author: "Miroslav Bergam"
+date: "2/21/2020"
+output: html_document
+---
+
+### Summary
+
+This paper investigates individuals' motivations for participating in forms of
+controversial or contentious political protest. The experiment involved sending
+out two different email invitations to an LGBTQ Rights Rally in New Jersey. One
+told individuals the goals of the event. The second told the same information,
+but also said that participants will be recognized as admirable for
+participation. There were other factors involved in controlling and accounting
+for participants, such as a verification/raffle code to confirm whether or not
+those who intended to attend actually showed up. Finally, the study compares the
+two rates of intended participation and actual participation between those who
+recieved information only and those who recieved the newsletter about admiration
+of attendees. The outcomes are compiled into tables. The two treatment groups
+were also given a post-event survey where their intentions for participation
+were compared. The paper found that the promise of social esteem and admiration
+increases participation in political events like rallies.
+
+Github Repo: https://github.com/mirobergam/milestone-3
